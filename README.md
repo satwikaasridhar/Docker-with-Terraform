@@ -9,7 +9,8 @@ Provision and manage a Docker container using Terraform.
 
 # Project Structure
 
-. ├── main.tf # Terraform configuration file ├── README.md # Project documentation
+. ├── main.tf # Terraform configuration file
+. ├── provider.tf 
 
 # Steps to follow:
 
