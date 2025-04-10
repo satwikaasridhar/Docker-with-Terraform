@@ -52,3 +52,5 @@ When you're done, destroy the Docker container with:
 terraform destroy
 Confirm the destroy operation when prompted.
   
+![2](https://github.com/user-attachments/assets/c4d1ffc7-c61f-414a-a359-13d929b2843d)
+![1](https://github.com/user-attachments/assets/6a49b168-acb3-4865-aebc-77dd0279a372)
